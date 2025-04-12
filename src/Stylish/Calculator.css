@@ -1,0 +1,29 @@
+
+
+.calc-container {
+    max-width: 360px;
+    background-color: #ffffffee;
+    border: 1px solid #ddd;
+}
+
+.display {
+    min-height: 70px;
+    background-color: #f8f9fa;
+    font-family: 'Courier New', monospace;
+    border: 1px solid #dee2e6;
+}
+
+.btn-custom {
+    transition: all 0.3s ease;
+}
+
+.btn-custom:hover {
+    transform: scale(1.05);
+    background-color: rgb(54, 128, 118);
+    border: none;
+}
+
+.DEL{background-color: rgb(161, 161, 161 );}
+.DEL:hover{background-color: orange;color: white;}
+
+
